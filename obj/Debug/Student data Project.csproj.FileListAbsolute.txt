@@ -1,0 +1,8 @@
+E:\Assisted\Student data Project\Student data Project\bin\Debug\Student data Project.exe.config
+E:\Assisted\Student data Project\Student data Project\bin\Debug\Student data Project.exe
+E:\Assisted\Student data Project\Student data Project\bin\Debug\Student data Project.pdb
+E:\Assisted\Student data Project\Student data Project\obj\Debug\Student data Project.csproj.AssemblyReference.cache
+E:\Assisted\Student data Project\Student data Project\obj\Debug\Student data Project.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\Student data Project\Student data Project\obj\Debug\Student data Project.csproj.CoreCompileInputs.cache
+E:\Assisted\Student data Project\Student data Project\obj\Debug\Student data Project.exe
+E:\Assisted\Student data Project\Student data Project\obj\Debug\Student data Project.pdb
